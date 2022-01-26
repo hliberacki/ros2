@@ -213,8 +213,8 @@ repositories:
     version: master
   ros2/demos:
     type: git
-    url: https://github.com/ros2/demos.git
-    version: master
+    url: https://github.com/hliberacki/demos.git
+    version: develop
   ros2/eigen3_cmake_module:
     type: git
     url: https://github.com/ros2/eigen3_cmake_module.git
@@ -229,8 +229,8 @@ repositories:
     version: master
   ros2/geometry2:
     type: git
-    url: https://github.com/ros2/geometry2.git
-    version: ros2
+    url: https://github.com/hliberacki/geometry2.git
+    version: develop
   ros2/launch:
     type: git
     url: https://github.com/ros2/launch.git
@@ -281,12 +281,12 @@ repositories:
     version: master
   ros2/rclcpp:
     type: git
-    url: https://github.com/ros2/rclcpp.git
-    version: master
+    url: https://github.com/hliberacki/rclcpp.git
+    version: develop
   ros2/rclpy:
     type: git
-    url: https://github.com/ros2/rclpy.git
-    version: master
+    url: https://github.com/hliberacki/rclpy.git
+    version: develop
   ros2/rcpputils:
     type: git
     url: https://github.com/ros2/rcpputils.git
